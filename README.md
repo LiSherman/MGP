@@ -1,6 +1,6 @@
 # Multi-scale feature consistent model under stochastic grayscale perturbation for semi-supervised medical image segmentation
 
-Submited to knowledge-based system.
+Under review.
 
 No public links currently.
 
